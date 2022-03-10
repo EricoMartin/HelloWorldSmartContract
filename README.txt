@@ -1,4 +1,7 @@
-REMIX EXAMPLE PROJECT
+REMIX HELLO WORLD SMART CONTRACT PROJECT
+
+This is a simple smart contract that prints Hello World and is tested on the Ropsten Test Network.
+Contract Address: 0x324D6f0132222c055303c9e1Bd146ec229Ee4BCf
 
 Remix example project is present when Remix loads for the very first time or there are no files existing in the File Explorer. 
 It contains 3 directories:
